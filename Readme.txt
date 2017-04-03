@@ -1,0 +1,111 @@
+Christian Chavez
+CeaserCipher.py and Frequency.py were programed using python v3. 
+Run the programs in terminal with python3 or use a python3 compiler.
+They are individual programs that ask for user input. 
+
+CeaserCipher.py: Encrypts or Decrypts a string. 
+	For encryption enter 1, e, -e, or encrypt. Then enter a non negative number 	for the key followed by the text to encrypt. 
+	For decryption enter 2, d, -d, or decrypt. Then enter the cipher text to 		decrypt. 
+
+Frequency.py counts the frequency of the letter in a string.  
+
+
+
+Encryption:
+Given  —- Key: 5, This is a great program
+Output —- Encrypted text: Ymnx nx f lwjfy uwtlwfr
+
+Given  —- Key: 22, Whoah that was fast
+Output —- Encrypted text: Sdkwd pdwp swo bwop
+
+Given  —- Key: 14, I love security
+Output —- Encrypted text: W zcjs gsqifwhm
+
+
+
+Decryption:
+Given  —- nyjnlf erzrzore gb rng na nccyr n qnl
+Output —-
+ozkomg fsasapsf hc soh ob oddzs o rom
+palpnh gtbtbqtg id tpi pc peeat p spn
+qbmqoi hucucruh je uqj qd qffbu q tqo
+rcnrpj ivdvdsvi kf vrk re rggcv r urp
+sdosqk jwewetwj lg wsl sf shhdw s vsq
+teptrl kxfxfuxk mh xtm tg tiiex t wtr
+ufqusm lygygvyl ni yun uh ujjfy u xus
+vgrvtn mzhzhwzm oj zvo vi vkkgz v yvt
+whswuo naiaixan pk awp wj wllha w zwu
+xitxvp objbjybo ql bxq xk xmmib x axv
+yjuywq pckckzcp rm cyr yl ynnjc y byw
+zkvzxr qdldladq sn dzs zm zookd z czx
+always remember to eat an apple a day
+bmxbzt sfnfncfs up fbu bo bqqmf b ebz
+cnycau tgogodgt vq gcv cp crrng c fca
+dozdbv uhphpehu wr hdw dq dssoh d gdb
+epaecw viqiqfiv xs iex er ettpi e hec
+fqbfdx wjrjrgjw yt jfy fs fuuqj f ifd
+grcgey xkskshkx zu kgz gt gvvrk g jge
+hsdhfz yltltily av lha hu hwwsl h khf
+iteiga zmumujmz bw mib iv ixxtm i lig
+jufjhb anvnvkna cx njc jw jyyun j mjh
+kvgkic bowowlob dy okd kx kzzvo k nki
+lwhljd cpxpxmpc ez ple ly laawp l olj
+mximke dqyqynqd fa qmf mz mbbxq m pmk
+
+Given  —- f xj buzfqba ql pqrav zljmrqbo pbzrofqv
+Output —- 
+g yk cvagrcb rm qrsbw amknsrcp qcaspgrw
+h zl dwbhsdc sn rstcx bnlotsdq rdbtqhsx
+i am excited to study computer security
+j bn fydjufe up tuvez dpnqvufs tfdvsjuz
+k co gzekvgf vq uvwfa eqorwvgt ugewtkva
+l dp haflwhg wr vwxgb frpsxwhu vhfxulwb
+m eq ibgmxih xs wxyhc gsqtyxiv wigyvmxc
+n fr jchnyji yt xyzid htruzyjw xjhzwnyd
+o gs kdiozkj zu yzaje iusvazkx ykiaxoze
+p ht lejpalk av zabkf jvtwbaly zljbypaf
+q iu mfkqbml bw abclg kwuxcbmz amkczqbg
+r jv nglrcnm cx bcdmh lxvydcna bnldarch
+s kw ohmsdon dy cdeni mywzedob comebsdi
+t lx pintepo ez defoj nzxafepc dpnfctej
+u my qjoufqp fa efgpk oaybgfqd eqogdufk
+v nz rkpvgrq gb fghql pbzchgre frphevgl
+w oa slqwhsr hc ghirm qcadihsf gsqifwhm
+x pb tmrxits id hijsn rdbejitg htrjgxin
+y qc unsyjut je ijkto secfkjuh iuskhyjo
+z rd votzkvu kf jklup tfdglkvi jvtlizkp
+a se wpualwv lg klmvq ugehmlwj kwumjalq
+b tf xqvbmxw mh lmnwr vhfinmxk lxvnkbmr
+c ug yrwcnyx ni mnoxs wigjonyl mywolcns
+d vh zsxdozy oj nopyt xjhkpozm nzxpmdot
+e wi atyepaz pk opqzu ykilqpan oayqnepu
+
+
+
+Letter Frequency for nud nubf nuej nuehe nua bjm udn:
+A: 1
+B: 2
+C: 0
+D: 2
+E: 3
+F: 1
+G: 0
+H: 1
+I: 0
+J: 2
+K: 0
+L: 0
+M: 1
+N: 6
+O: 0
+P: 0
+Q: 0
+R: 0
+S: 0
+T: 0
+U: 6
+V: 0
+W: 0
+X: 0
+Y: 0
+Z: 0
